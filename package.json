@@ -1,0 +1,21 @@
+{
+  "name": "react-konva-transformer",
+  "description": "React Konva demo for Transformer",
+  "version": "0.0.9",
+  "keywords": ["canvas", "react", "konva"],
+  "dependencies": {
+    "konva": "2.6.0",
+    "react": "16.8.3",
+    "react-dom": "16.8.3",
+    "react-konva": "16.8.3"
+  },
+  "devDependencies": {
+    "react-scripts": "2.0.4"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
